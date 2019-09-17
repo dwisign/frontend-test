@@ -1,2 +1,4 @@
 # frontend-test
-react calc appp
+react calc app 
+
+clone and run npm start
